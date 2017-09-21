@@ -1,5 +1,3 @@
-Git is free software
-
 hello <br> 
 these documents are for my tensorflow_learning <br>
 you can download them and learn   <br>
