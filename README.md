@@ -1,4 +1,3 @@
-is a free
 Hello <br> 
 These documents are for my tensorflow_learning <br>
 You can download them and learn   <br>
